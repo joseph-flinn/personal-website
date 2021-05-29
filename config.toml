@@ -16,7 +16,7 @@ pygmentsCodefences       = true
     footerText           = "Joseph Flinn - Personal Website"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
+    description          = "Joseph Flinn - Personal Website"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Joseph Flinn - Personal Website"
     # rss                = ""
@@ -29,7 +29,7 @@ pygmentsCodefences       = true
     overlay = "rgba(0, 0, 0, 0.4)" # optional
 
 [[params.mainMenu]]
-    link = "about"
+    link = "/about"
     text = "who am i?"
 
 [imaging]

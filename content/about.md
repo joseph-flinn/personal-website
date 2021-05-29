@@ -1,7 +1,7 @@
 ---
 title: "Who am I?"
 date: 2021-05-27T18:35:55-07:00
-draft: true
+draft: false
 ---
 
 An age old question that has very different but uniquely interesting answers depending on the lens the question is
